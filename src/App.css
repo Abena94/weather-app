@@ -1,0 +1,12 @@
+
+
+.App{ 
+background-image: url('./images/background.jpg');
+text-align: center;
+background-position: "center center";
+background-attachment: "fixed";
+background-size: "contain";
+background-repeat: "no-repeat";
+font-family: 'Merriweather', serif;
+font-size: 1.5rem;
+}
