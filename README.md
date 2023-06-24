@@ -53,6 +53,11 @@ The Application Runs on **localhost:3000**
 2. **Header** Component : This Component Displays navbar of the application. it contains input to search for city's weather
 3. **Footer** Component : This Component Displays footer of the application
 
+
+#### API 
+
+the API 
+
 #### HTTP client
 
 **axios** library is used to make HTTP Calls
